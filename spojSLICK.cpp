@@ -1,21 +1,35 @@
 /*
 Pretty Kind , Pretty Smart.
 */
+
 #include<stdio.h>
+
 #include<iostream>
+
 #include<utility>
+
 #include<vector>
+
 #include<queue>
 #include<map>
+
 #include<list>
+
 #include<climits>
+
 #include<string.h>
+
 #include<stdlib.h>
+
 using namespace std;
+
 #define mp make_pair
+
 #define pb push_back
+
 #define MOD 1000000007
 #define i_o ios::sync_with_stdio(false);cin.tie(0);cout.tie(0);
+
 #define pii pair<int,int>
 #define iin1(a) scanf("%d",&a)
 #define LOOP(s,t,i) for(int i=s;i<=t;i++)
